@@ -1,0 +1,14 @@
+{
+  "method": "side_activity_selection",
+  "minimum_confidence": 0.0,
+  "side_search_seconds": 120.0,
+  "side_stable_seconds": 2.0,
+  "side_min_team_slots": 5,
+  "side_min_fraction": 0.65,
+  "side_min_median_separation_fraction": 0.15,
+  "side_fallback_seconds": 1.0,
+  "activity_velocity_radius_seconds": 0.2,
+  "activity_smooth_seconds": 0.8,
+  "activity_tie_mps": 0.1,
+  "max_activity_speed_mps": 12.0
+}
